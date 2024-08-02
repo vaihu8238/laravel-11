@@ -57,7 +57,7 @@
       
      
           <div class="modal-footer">
-              <input type="hidden"  value="1" name="type">
+                <input type="hidden"  value="1" name="type">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                 <button type="button" id="btn_add" class="btn btn-primary">add</button>
           </div> 
